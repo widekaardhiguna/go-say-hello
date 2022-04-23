@@ -1,3 +1,3 @@
-module github.com/widekaardhiguna/go-say-hello
+module github.com/widekaardhiguna/go-say-hello/v2
 
 go 1.17
